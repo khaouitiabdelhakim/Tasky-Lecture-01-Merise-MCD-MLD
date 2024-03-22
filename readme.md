@@ -12,6 +12,8 @@ If you'd like to support further, consider buying us a coffee:
 ```
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee--yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/kh.abdelhakim)
 
+![Lab1](https://github.com/khaouitiabdelhakim/Tasky-Lecture-01-Merise-MCD-MLD/blob/main/Ramadan%20labs%20Lectures%20-%2001.png)
+
 ## Authors
 Bengmah Anass - KHAOUITI Abdelhakim
 
