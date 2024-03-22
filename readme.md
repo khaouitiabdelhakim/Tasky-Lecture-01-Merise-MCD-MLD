@@ -13,11 +13,11 @@ If you'd like to support further, consider buying us a coffee:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee--yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/kh.abdelhakim)
 
 ## Authors
-Bengmah Anass - KHAOUITI Abdelhakim
+Fatima Zahra DRISSI - KHAOUITI Abdelhakim
 
 ## About Us
 
-We are Khaouiti Abdlhakim and Bnegmah Anass, your guides on this development adventure. With our combined experience and passion for dev, we aim to empower you with the knowledge and skills needed to excel in web and mobile development.
+We are Khaouiti Abdlhakim and Fatima Zahra DRISSI, your guides on this development adventure. With our combined experience and passion for dev, we aim to empower you with the knowledge and skills needed to excel in web and mobile development.
 
 ## What to Expect
 
@@ -63,7 +63,7 @@ Fork this repository if you wish to make changes or contribute improvements.
 ## License
 
 ```
-Copyright 2024 Bengmah Anass - KHAOUITI Abdelhakim
+Copyright 2024 Fatima Zahra DRISSI- KHAOUITI Abdelhakim
 powered by KHAOUITI Apps
 
 Licensed under the MIT License
